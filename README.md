@@ -22,7 +22,6 @@
 > Negative potential consequences of an action.
 ```
 
-
 Here is how they are displayed:
 
 > [!NOTE]
@@ -40,5 +39,19 @@ Here is how they are displayed:
 > [!CAUTION]
 > Negative potential consequences of an action.
 
-Source: [[Markdown] An option to highlight a "Note" and "Warning" using blockquote (Beta) #16925](https://github.com/orgs/community/discussions/16925)
+Source: [[Markdown] An option to highlight a "Note" and "Wa
 
+### Style guides
+
+Technical writing style guides:
+
+    +   [Google](https://developers.google.com/style) style guide
+    +   [Apple](https://support.apple.com/en-gb/guide/applestyleguide/welcome/web) style guide
+    +   [Red Hat](https://redhat-documentation.github.io/supplementary-style-guide/)
+        supplementary style guide for product documentation
+
+Non-technical style guides:
+
+    +   [The Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html)
+        (subscription required).
+    +   [The Associated Press Stylebook](https://www.apstylebook.com/) (subscription required).
