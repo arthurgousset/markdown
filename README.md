@@ -45,13 +45,13 @@ Source: [[Markdown] An option to highlight a "Note" and "Wa
 
 Technical writing style guides:
 
-    +   [Google](https://developers.google.com/style) style guide
-    +   [Apple](https://support.apple.com/en-gb/guide/applestyleguide/welcome/web) style guide
-    +   [Red Hat](https://redhat-documentation.github.io/supplementary-style-guide/)
+-   [Google](https://developers.google.com/style) style guide
+-   [Apple](https://support.apple.com/en-gb/guide/applestyleguide/welcome/web) style guide
+-   [Red Hat](https://redhat-documentation.github.io/supplementary-style-guide/)
         supplementary style guide for product documentation
 
 Non-technical style guides:
 
-    +   [The Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html)
+-   [The Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html)
         (subscription required).
-    +   [The Associated Press Stylebook](https://www.apstylebook.com/) (subscription required).
+-   [The Associated Press Stylebook](https://www.apstylebook.com/) (subscription required).
