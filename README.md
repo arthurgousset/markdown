@@ -39,7 +39,8 @@ Here is how they are displayed:
 > [!CAUTION]
 > Negative potential consequences of an action.
 
-Source: [[Markdown] An option to highlight a "Note" and "Wa
+Source: 
+[[Markdown] An option to highlight a "Note" and "Warning" using blockquote (Beta) #16925](https://github.com/orgs/community/discussions/16925)
 
 ### Style guides
 
