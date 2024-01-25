@@ -1,4 +1,4 @@
-Markdown (Cheat Sheet)
+# Markdown (Cheat Sheet)
 
 > [!TIP] 
 > This is a cheat sheet for all things markdown (mostly notes-to-self). They are incomplete by default
